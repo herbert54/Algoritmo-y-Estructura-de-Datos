@@ -1,7 +1,3 @@
-//INTEGRANTES
-// Herbert Chumbe Ñahui
-// Jesús Gadiel Velarde Tipte
-// Camila Milagros Coveñas Rojas
 
 #include <iostream>
 
@@ -186,62 +182,5 @@ class List{
         cout <<endl;
         }
 };
-
-
-int main(){
-    // List lista;
-    // lista.push_front(5);
-    // lista.push_front(4);
-    // lista.push_front(3);
-    // lista.push_front(2);
-    // lista.push_front(1);
-
-    // cout<<"Lista inicial: ";
-    // lista.print();
-
-    // lista.push_back(6);
-
-    // cout<<"Lista modificada: ";
-    // lista.traverse();
-
-    // lista.pop_front();
-
-    // cout<<"Lista despues del pop: ";
-    // lista.traverse();
-
-    // cout<<"Primer elemento: "<<lista.front()<<endl;
-    // cout<<"Ultimo elemento: "<<lista.back()<<endl;
-    // lista.traverse();
-
-    // cout<<"Size: "<<lista.size()<<endl;
-
-    // List l;
-    // cout<<"La lista esta vacia: "<<l.empty()<<endl;
-
-    //lista.reverse();
-
-    //lista.print();
-
-    //cout<<"Elemento a retornar seguna la posicion: "<<lista.operator[](2);
-
-
-    List<int> lista;
-    // lista.push_back(5);
-    // lista.push_back(2);
-    // lista.push_back(9);
-    // lista.push_back(1);
-    // lista.push_back(7);
-    // lista.push_back(10);
-    cout<<"ELEMENT: "<<lista.back();
-
-    // cout << "Lista antes de ordenar: ";
-    // lista.print();
-
-    // lista.sort();
-
-    // cout << "Lista después de ordenar: ";
-    // lista.print();
-
-}
 
 
